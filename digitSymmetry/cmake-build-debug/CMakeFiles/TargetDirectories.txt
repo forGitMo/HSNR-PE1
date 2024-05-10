@@ -1,0 +1,3 @@
+C:/Users/Praktikant/Documents/UNI/pe1/HSNR/digitSymmetry/cmake-build-debug/CMakeFiles/digitSymmetry.dir
+C:/Users/Praktikant/Documents/UNI/pe1/HSNR/digitSymmetry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Praktikant/Documents/UNI/pe1/HSNR/digitSymmetry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
